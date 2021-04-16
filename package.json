@@ -1,6 +1,6 @@
 {
   "name": "capacitor-canonical-hostname",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Plugin gets canonical hostname from ip",
   "main": "dist/plugin.js",
   "module": "dist/esm/index.js",
